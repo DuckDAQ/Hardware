@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [DAQ_REV_B2.PrjPcb]
+   Generated File[Pick Place for DAQ_REV_B2(DAQ).txt]
+   Generated File[Pick Place for DAQ_REV_B2(DAQ).csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:11:22 On 7. 09. 2017

@@ -1,0 +1,66 @@
+Change Component Parameter Comment in J4 Old= New= B2B-PH-K-S(LF)(SN)
+Change Value of Parameter Manufacturer Number in Part J4 Old=B2B-PH-K-S(LF)(SN) New= B2B-PH-K-S(LF)(SN)
+Change Value of Parameter Manufacturer in Part R52 Old=Vishay New= Vishay
+Change Value of Parameter Manufacturer in Part R53 Old=Vishay New= Vishay
+Change Value of Parameter Manufacturer in Part R55 Old=Vishay New= Vishay
+Change Value of Parameter Manufacturer Number in Part R56 Old=RC0603JR-073K3L New=	RC0603JR-073K3L
+Change Value of Parameter Manufacturer Number in Part R57 Old=RC0603JR-073K3L New=	RC0603JR-073K3L
+Added Parameter 3D Model path= to Part C51
+Added Parameter 3D Model path= to Part C52
+Added Parameter 3D Model path= to Part C53
+Added Parameter 3D Model path= to Part C62
+Added Parameter 3D Model path= to Part D3
+Added Parameter 3D Model path= to Part J4
+Added Parameter 3D Model path= to Part R52
+Added Parameter 3D Model path= to Part R53
+Added Parameter 3D Model path= to Part R55
+Added Parameter 3D Model path= to Part R56
+Added Parameter 3D Model path= to Part R57
+Added Parameter 3D Model path= to Part R58
+Added Parameter 3D Model path= to Part U13
+Added Parameter 3D Model ref= to Part C51
+Added Parameter 3D Model ref= to Part C52
+Added Parameter 3D Model ref= to Part C53
+Added Parameter 3D Model ref= to Part C62
+Added Parameter 3D Model ref= to Part D3
+Added Parameter 3D Model ref= to Part J4
+Added Parameter 3D Model ref= to Part R52
+Added Parameter 3D Model ref= to Part R53
+Added Parameter 3D Model ref= to Part R55
+Added Parameter 3D Model ref= to Part R56
+Added Parameter 3D Model ref= to Part R57
+Added Parameter 3D Model ref= to Part R58
+Added Parameter 3D Model ref= to Part U13
+Added Parameter ComponentLink1Description= to Part C51
+Added Parameter ComponentLink1Description= to Part C52
+Added Parameter ComponentLink1Description= to Part C53
+Added Parameter ComponentLink1URL= to Part C51
+Added Parameter ComponentLink1URL= to Part C52
+Added Parameter ComponentLink1URL= to Part C53
+Added Parameter Dealer=Farnell to Part J4
+Added Parameter Dealer number=9491856 to Part J4
+Added Parameter ESL= to Part C51
+Added Parameter ESL= to Part C52
+Added Parameter ESL= to Part C53
+Added Parameter ESL= to Part C62
+Added Parameter ESR= to Part C51
+Added Parameter ESR= to Part C52
+Added Parameter ESR= to Part C53
+Added Parameter SKU= to Part C62
+Added Parameter SKU= to Part R56
+Added Parameter SKU= to Part R57
+Added Parameter SKU= to Part R58
+Added Parameter Stock= to Part C51
+Added Parameter Stock= to Part C52
+Added Parameter Stock= to Part C53
+Added Parameter Stock= to Part C62
+Added Parameter Stock= to Part D3
+Added Parameter Stock= to Part J4
+Added Parameter Stock= to Part R52
+Added Parameter Stock= to Part R53
+Added Parameter Stock= to Part R55
+Added Parameter Stock= to Part R56
+Added Parameter Stock= to Part R57
+Added Parameter Stock= to Part R58
+Added Parameter Stock= to Part U13
+Added Parameter Temperature coefficient= to Part D3

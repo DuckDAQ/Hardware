@@ -1,0 +1,147 @@
+Altium Designer Pick and Place Locations
+D:\GoogleDrive\my_documents\projects\FE\USB DAQ\REV_B2\Project Outputs for DAQ_REV_B2\Pick Place for DAQ_REV_B2(DAQ).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/09/17
+Time:       15:11
+Revision:   Not in VersionControl
+Variant:    DAQ
+Units used: mm
+
+Designator Comment       Layer    Footprint          Center-X(mm) Center-Y(mm) Rotation Description                                                                                                    
+J3                       TopLayer HEADER_2X05_1.27mm 30,000       11,200       90       Header strait 1.27mm 5way X 2                                                                                  
+R58        0?            TopLayer 0603R              5,150        14,900       270      resistor smd 0603 0? 5% 0.1w                                                                                   
+C48        1µ            TopLayer 0603C              34,750       -11,850      90       ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C9         1µ            TopLayer 0603C              40,800       -13,098      180      ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C15        1µ            TopLayer 0603C              27,450       -19,000      270      ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C18        1µ            TopLayer 0603C              2,750        -16,500      90       ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C19        1µ            TopLayer 0603C              2,750        -19,750      270      ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C21        1µ            TopLayer 0603C              8,250        -18,800      90       ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C22        1µ            TopLayer 0603C              36,200       -17,248      90       ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C23        1µ            TopLayer 0603C              8,250        -14,950      270      ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C25        1µ            TopLayer 0603C              18,200       -16,750      90       ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C26        1µ            TopLayer 0603C              12,950       -19,500      180      ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C28        1µ            TopLayer 0603C              14,250       -14,050      180      ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C29        1µ            TopLayer 0603C              42,600       -21,250      270      ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C36        1µ            TopLayer 0603C              26,050       4,452        45       ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C40        1µ            TopLayer 0603C              56,050       9,350        360      ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+C41        1µ            TopLayer 0603C              40,000       -7,248       135      ceramic X5R SMD capacitor smd 0603 1µF 50V                                                                     
+L5         10µ           TopLayer ind_4mmX4mm        12,950       -10,800      360      SMD inductor 10µH, 0.8A                                                                                        
+C1         100n          TopLayer 0603C              54,550       2,100        180      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C2         100n          TopLayer 0603C              64,000       -19,050      270      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C3         100n          TopLayer 0603C              56,750       -10,350      360      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C8         100n          TopLayer 0603C              50,450       -20,550      90       ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C10        100n          TopLayer 0603C              40,800       -14,498      180      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C11        100n          TopLayer 0603C              47,350       -18,100      180      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C12        100n          TopLayer 0603C              44,900       -22,350      90       ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C17        100n          TopLayer 0603C              55,975       -24,250      270      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C32        100n          TopLayer 0603C              50,450       -24,150      270      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C35        100n          TopLayer 0603C              36,050       -10,098      270      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C37        100n          TopLayer 0603C              42,350       1,802        315      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C38        100n          TopLayer 0603C              28,800       -7,000       225      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C39        100n          TopLayer 0603C              26,950       3,502        225      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C42        100n          TopLayer 0603C              40,900       -6,348       315      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C43        100n          TopLayer 0603C              40,000       5,402        45       ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C44        100n          TopLayer 0603C              26,900       -5,048       225      ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+C45        100n          TopLayer 0603C              32,850       -8,398       45       ceramic X7R SMD capacitor smd 0603 100nF 16V                                                                   
+R27        100?          TopLayer 0603R              50,550       -18,100      180      resistor smd 0603 100? 5% 0.1w                                                                                 
+R32        100?          TopLayer 0603R              70,275       9,402        360      resistor smd 0603 100? 5% 0.1w                                                                                 
+R33        100?          TopLayer 0603R              67,175       8,302        180      resistor smd 0603 100? 5% 0.1w                                                                                 
+R34        100?          TopLayer 0603R              70,275       7,202        360      resistor smd 0603 100? 5% 0.1w                                                                                 
+R35        100?          TopLayer 0603R              67,175       6,102        180      resistor smd 0603 100? 5% 0.1w                                                                                 
+R36        100?          TopLayer 0603R              70,275       5,002        360      resistor smd 0603 100? 5% 0.1w                                                                                 
+R37        100?          TopLayer 0603R              67,175       3,902        180      resistor smd 0603 100? 5% 0.1w                                                                                 
+R38        100?          TopLayer 0603R              70,275       2,802        360      resistor smd 0603 100? 5% 0.1w                                                                                 
+R39        100?          TopLayer 0603R              67,175       1,702        180      resistor smd 0603 100? 5% 0.1w                                                                                 
+R44        10k?          TopLayer 0603R              17,500       -10,750      270      resistor smd 0603 10k? 1% 0.1w                                                                                 
+R54        10k?          TopLayer 0603R              9,750        11,850       270      resistor smd 0603 10k? 1% 0.1w                                                                                 
+C34        10p           TopLayer 0603C              14,750       -21,100      360      ceramic C0G SMD capacitor smd 0603 10pF 100V                                                                   
+R43        113k?         TopLayer 0603R              15,950       -10,750      90       resistor smd 0603 113k? 1% 0.1w                                                                                
+R1         120k          TopLayer 0603R              51,600       -7,508       270      resistor smd 0603 120k? 0.1% 0.1w                                                                              
+R2         120k          TopLayer 0603R              58,275       2,725        90       resistor smd 0603 120k? 0.1% 0.1w                                                                              
+R9         120k          TopLayer 0603R              53,150       -7,508       90       resistor smd 0603 120k? 0.1% 0.1w                                                                              
+R10        120k          TopLayer 0603R              56,730       2,725        270      resistor smd 0603 120k? 0.1% 0.1w                                                                              
+R11        120k          TopLayer 0603R              56,955       -7,508       270      resistor smd 0603 120k? 0.1% 0.1w                                                                              
+R13        120k          TopLayer 0603R              50,850       2,725        90       resistor smd 0603 120k? 0.1% 0.1w                                                                              
+R22        120k          TopLayer 0603R              55,410       -7,508       90       resistor smd 0603 120k? 0.1% 0.1w                                                                              
+R23        120k          TopLayer 0603R              52,400       2,725        270      resistor smd 0603 120k? 0.1% 0.1w                                                                              
+R29        120k          TopLayer 0603R              44,850       -18,900      90       resistor smd 0603 120k? 0.1% 0.1w                                                                              
+R31        120k          TopLayer 0603R              47,250       -23,150      360      resistor smd 0603 120k? 0.1% 0.1w                                                                              
+L1         120? @ 100MHz TopLayer 0805R              54,200       -24,450      90       Ferrite bead, 0.15?, 200mA, 0805, 120E @ 100MHz                                                                
+L4         120? @ 100MHz TopLayer 0805R              33,700       -16,398      360      Ferrite bead, 0.15?, 200mA, 0805, 120E @ 100MHz                                                                
+L6         120? @ 100MHz TopLayer 0805R              52,200       -24,400      90       Ferrite bead, 0.15?, 200mA, 0805, 120E @ 100MHz                                                                
+L7         120? @ 100MHz TopLayer 0805R              55,650       11,100       360      Ferrite bead, 0.15?, 200mA, 0805, 120E @ 100MHz                                                                
+L8         120? @ 100MHz TopLayer 0805R              46,000       2,900        0        Ferrite bead, 0.15?, 200mA, 0805, 120E @ 100MHz                                                                
+L9         120? @ 100MHz TopLayer 0805R              33,150       -11,948      270      Ferrite bead, 0.15?, 200mA, 0805, 120E @ 100MHz                                                                
+C33        15n           TopLayer 0603C              15,600       -23,400      90       ceramic X7R SMD capacitor smd 0603 15nF 100V                                                                   
+Y1         16MHz         TopLayer 5X3.2              27,400       -12,448      180      Crystal 16Mhz                                                                                                  
+C47        18p           TopLayer 0603C              22,950       -13,350      360      ceramic C0G SMD capacitor smd 0603 18pF 100V                                                                   
+C46        18p           TopLayer 0603C              30,900       -12,450      270      ceramic C0G SMD capacitor smd 0603 18pF 100V                                                                   
+R3         1M            TopLayer 0603R              70,800       -4,483       180      resistor smd 0603 1M? 0.1% 0.1w                                                                                
+R4         1M            TopLayer 0603R              70,800       -0,150       180      resistor smd 0603 1M? 0.1% 0.1w                                                                                
+R7         1M            TopLayer 0603R              67,675       -5,808       180      resistor smd 0603 1M? 0.1% 0.1w                                                                                
+R8         1M            TopLayer 0603R              67,625       -1,175       180      resistor smd 0603 1M? 0.1% 0.1w                                                                                
+R14        1M            TopLayer 0603R              67,625       -8,125       180      resistor smd 0603 1M? 0.1% 0.1w                                                                                
+R16        1M            TopLayer 0603R              67,725       -3,492       180      resistor smd 0603 1M? 0.1% 0.1w                                                                                
+R19        1M            TopLayer 0603R              70,800       -6,650       180      resistor smd 0603 1M? 0.1% 0.1w                                                                                
+R21        1M            TopLayer 0603R              70,800       -2,317       180      resistor smd 0603 1M? 0.1% 0.1w                                                                                
+R42        1M?           TopLayer 0603R              6,850        -10,350      90       resistor smd 0603 1M? 5% 0.1w                                                                                  
+C4         1n            TopLayer 0603C              39,050       -10,198      135      ceramic X7R SMD capacitor smd 0603 1nF 100V                                                                    
+C5         1n            TopLayer 0603C              45,300       -2,148       180      ceramic X7R SMD capacitor smd 0603 1nF 100V                                                                    
+C6         1n            TopLayer 0603C              38,100       -11,148      135      ceramic X7R SMD capacitor smd 0603 1nF 100V                                                                    
+C7         1n            TopLayer 0603C              45,300       -3,548       180      ceramic X7R SMD capacitor smd 0603 1nF 100V                                                                    
+R12        24k           TopLayer 0603R              63,100       -9,200       360      resistor smd 0603 24k? 0.1% 0.1w                                                                               
+R24        24k           TopLayer 0603R              56,750       -11,942      360      resistor smd 0603 24k? 0.1% 0.1w                                                                               
+R25        24k           TopLayer 0603R              61,450       -18,200      180      resistor smd 0603 24k? 0.1% 0.1w                                                                               
+R30        24k           TopLayer 0603R              56,750       -16,692      360      resistor smd 0603 24k? 0.1% 0.1w                                                                               
+F1         250mA         TopLayer 1206               8,050        -3,600       360      Polyfuse 250 mA holding current, 500 mA trip current                                                           
+R45        27.4k?        TopLayer 0603R              13,950       -23,400      270      resistor smd 0603 27.4k? 1% 0.1w                                                                               
+R40        27?           TopLayer 0603R              7,750        -5,648       360      resistor smd 0603 27? 5% 0.1w                                                                                  
+R41        27?           TopLayer 0603R              7,750        -7,148       360      resistor smd 0603 27? 5% 0.1w                                                                                  
+R17        2k            TopLayer 0603R              60,750       -8,400       270      resistor smd 0603 2k? 0.1% 0.1w                                                                                
+R20        2k            TopLayer 0603R              56,750       -13,525      360      resistor smd 0603 2k? 0.1% 0.1w                                                                                
+R26        2k            TopLayer 0603R              59,100       -19,050      90       resistor smd 0603 2k? 0.1% 0.1w                                                                                
+R28        2k            TopLayer 0603R              56,750       -15,108      360      resistor smd 0603 2k? 0.1% 0.1w                                                                                
+C13        4.7µ          TopLayer A                  1,550        -24,900      270      tantalum SMD capacitor 4.7µF 16V A case                                                                        
+C16        4.7µ          TopLayer A                  27,450       -23,250      90       tantalum SMD capacitor 4.7µF 16V A case                                                                        
+C20        4.7µ          TopLayer A                  5,550        -22,350      180      tantalum SMD capacitor 4.7µF 16V A case                                                                        
+C24        4.7µ          TopLayer A                  24,100       -16,700      270      tantalum SMD capacitor 4.7µF 16V A case                                                                        
+C27        4.7µ          TopLayer A                  16,350       -7,200       360      tantalum SMD capacitor 4.7µF 16V A case                                                                        
+C31        4.7µ          TopLayer A                  35,300       -23,150      270      tantalum SMD capacitor 4.7µF 16V A case                                                                        
+R5         470?          TopLayer 0603R              50,050       -7,508       270      resistor smd 0603 470? 5% 0.1w                                                                                 
+R6         470?          TopLayer 0603R              59,820       2,725        90       resistor smd 0603 470? 5% 0.1w                                                                                 
+R15        470?          TopLayer 0603R              58,500       -7,508       270      resistor smd 0603 470? 5% 0.1w                                                                                 
+R18        470?          TopLayer 0603R              49,300       2,725        90       resistor smd 0603 470? 5% 0.1w                                                                                 
+C14        47n           TopLayer 0603C              8,750        -10,350      90       ceramic X7R SMD capacitor smd 0603 47nF 16V                                                                    
+C30        47n           TopLayer 0603C              10,350       -19,950      90       ceramic X7R SMD capacitor smd 0603 47nF 16V                                                                    
+R60        75?           TopLayer 0603R              44,300       23,900       360      resistor smd 0603 75? 5% 0.1w                                                                                  
+R59        75?           TopLayer 0603R              3,750        12,000       180      resistor smd 0603 75? 5% 0.1w                                                                                  
+U2         ADA4001-2     TopLayer SOIC8              61,350       -13,800      270      Low Noise, Low Input Bias Current, Rail-to-Rail
+Output, JFET Dual Operational Amplifier                       
+U10        ADP1613       TopLayer MSOP8              12,700       -16,900      180      650 kHz /1.3 MHz Step-Up PWM DC-to-DC Switching Converters
+REGULATORS
+Synchronous Step-Down DC-DC Converter 
+U3         ADR3525WA     TopLayer MSOP8              40,800       -16,848      360      Micropower, High Accuracy
+Voltage References                                                                  
+U12        ATSAM3S4B     TopLayer LQFP64             34,050       -0,148       135      Cortex M3 ARM microcontroller                                                                                  
+U9         BU33TD3WG     TopLayer SOT23-5            20,900       -16,750      360      1-µA IQ Voltage Regulators with Enable                                                                         
+J1         IDC34R        TopLayer IDC34R             75,250       -0,048       270      Harting IDC connector 2X17                                                                                     
+D4         KPT-2012SGC   TopLayer LED0805            3,126        14,600       90       Green led SMD 0805                                                                                             
+L2         LPD3015-153   TopLayer LPD3015            5,550        -18,750      90       Coupled Inductors                                                                                              
+L3         LPD3015-153   TopLayer LPD3015            5,550        -15,000      90       Coupled Inductors                                                                                              
+U8         MC78L12ACDG   TopLayer SOIC8              31,300       -23,250      90       100 mA Positive Voltage
+Regulator                                                                             
+U11        MC79L12ACDG   TopLayer SOIC8              39,050       -23,250      90       100 mA Negative Voltage
+Regulator                                                                             
+J2         MINI_USB_A    TopLayer MICRO_USB_A        3,000        -7,550       270      CONNECTOR, MICRO USB B, SMD, 5WAY                                                                              
+Q2         NX3008NBK     TopLayer SOT23-3            7,050        12,000       90       30V 0.4A N-mosfet                                                                                              
+U1         OPA4348       TopLayer SOIC14             54,160       -2,208       270      1MHz, 45µA, CMOS, Rail-to-Rail OPERATIONAL AMPLIFIERS Value Line Series                                        
+D1         PMEG2020      TopLayer SOD323             10,750       -14,100      360      Shotkey diode 2A 20V                                                                                           
+D2         PMEG2020      TopLayer SOD323             9,100        -22,650      270      Shotkey diode 2A 20V                                                                                           
+U5         PUSB2X4Y      TopLayer SOT363             10,950       -6,398       180      ESD protection for high-speed interfaces                                                                       
+U6         PUSB2X4Y      TopLayer SOT363             63,575       8,152        90       ESD protection for high-speed interfaces                                                                       
+U7         PUSB2X4Y      TopLayer SOT363             63,475       3,252        90       ESD protection for high-speed interfaces                                                                       
+U4         TLV2471       TopLayer SOT23-5            47,750       -20,600      360      FAMILY OF 600µA/Ch 2.8MHz RAIL-TO-RAIL INPUT/OUTPUT
+HIGH-DRIVE OPERATIONAL AMPLIFIERS WITH SHUTDOWN           

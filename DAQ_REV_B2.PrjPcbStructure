@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=DAQ.SchDoc
+Record=SheetSymbol|SourceDocument=DAQ.SchDoc|Designator= |SchDesignator= |FileName=Cover_sheet.SchDoc|SymbolType=Normal|RawFileName=Cover_sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DAQ.SchDoc|Designator= |SchDesignator= |FileName=WIFI_Display.SchDoc|SymbolType=Normal|RawFileName=WIFI_Display.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DAQ.SchDoc|Designator= |SchDesignator= |FileName=Battery_manegment.SchDoc|SymbolType=Normal|RawFileName=Battery_manegment.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DAQ.SchDoc|Designator= |SchDesignator= |FileName=Power_suply.SchDoc|SymbolType=Normal|RawFileName=Power_suply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DAQ.SchDoc|Designator= |SchDesignator= |FileName=IO.SchDoc|SymbolType=Normal|RawFileName=IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DAQ.SchDoc|Designator= |SchDesignator= |FileName=Analog.SchDoc|SymbolType=Normal|RawFileName=Analog.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DAQ.SchDoc|Designator= |SchDesignator= |FileName=Processor.SchDoc|SymbolType=Normal|RawFileName=Processor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
